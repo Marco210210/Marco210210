@@ -35,7 +35,7 @@
 ### 📫 How to reach me
 
 📧 marcodimaio2102@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/marco-di-maio-67b923243/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/marcodm2102/)  
 📷 [Instagram](https://www.instagram.com/_marco_10__/)
 
 ---
