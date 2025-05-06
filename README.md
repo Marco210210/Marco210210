@@ -42,7 +42,7 @@
 
 ### 👨‍💻 All of my projects are available at
 
-🔗 [https://github.com/Marco210210](https://github.com/Marco210210?tab=repositories)
+🔗 [github.com/Marco210210](https://github.com/Marco210210?tab=repositories)
 
 <!--
 ### 📄 Know about my experiences
