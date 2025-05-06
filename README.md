@@ -4,7 +4,7 @@
 
 📍 Based in Nocera Inferiore, Italy  
 💡 Passionate about home automation, data science and applied AI  
-🧠 Strong problem-solving mindset, with hands-on team experience across several projects  
+🧠 Strong problem-solving mindset with hands-on experience in team-based projects
 ⚙️ Driven by perseverance, pragmatism and passion  
 🧭 Motto: _Stay hungry. Stay foolish_
 
@@ -23,12 +23,6 @@
 
 - Efficient data analysis techniques and model optimization
 - Reinforcement learning in games and simulations
-
-### 🌱 I’m currently learning
-
-- Advanced machine learning (sklearn, TensorFlow, PyTorch)
-- Statistical analysis with R and Python
-- Model explainability and evaluation with LLMs
 
 ### 🌱 I’m currently learning
 
@@ -56,7 +50,7 @@
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Tech Stack
 
 ### 🖥️ Programming Languages
 <p align="left">
@@ -146,7 +140,7 @@
   </a>
 </p>
 
-### 🖥️ Software
+### 🛠️ Software Tools
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -188,3 +182,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Marco210210&label=Profile%20views&color=0e75b6&style=flat)
+
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco210210&show_icons=true&theme=default)
