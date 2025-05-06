@@ -4,7 +4,7 @@
 
 📍 Based in Nocera Inferiore, Italy  
 💡 Passionate about home automation, data science and applied AI  
-🧠 Strong problem-solving mindset with hands-on experience in team-based projects
+🧠 Strong problem-solving mindset, with hands-on experience in team-based projects
 ⚙️ Driven by perseverance, pragmatism and passion  
 🧭 Motto: _Stay hungry. Stay foolish_
 
@@ -44,9 +44,11 @@
 
 🔗 [https://github.com/Marco210210](https://github.com/Marco210210)
 
+<!--
 ### 📄 Know about my experiences
 
 📎 [My CV (PDF)](./CV%20-%20Marco%20Di%20Maio.pdf)
+-->
 
 ---
 
