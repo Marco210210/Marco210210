@@ -125,13 +125,6 @@
   </a>
 </p>
 
-### 📊 Data Visualization
-<p align="left">
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-</p>
-
 ### ⚙️ DevOps
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
