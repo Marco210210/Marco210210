@@ -1,9 +1,13 @@
 # Hi 👋, I'm Marco Di Maio
 
-### 🎓 Master's student in Data Science & Machine Learning  
-📍 Based in Italy  
-💡 Passionate about automation, cybersecurity, and innovation  
+### 🎓 MSc student in Computer Science – Data Science & Machine Learning, University of Salerno  
+### 🎓 BSc in Computer Engineering
+
+📍 Nocera Inferiore, Italy  
+💡 Passionate about home automation, cybersecurity and AI  
+🤝 Team-oriented, pragmatic and always driven by curiosity  
 🧠 Motto: *Stay hungry. Stay foolish*
+
 
 ---
 
