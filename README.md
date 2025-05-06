@@ -182,8 +182,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Marco210210&label=Profile%20views&color=0e75b6&style=flat)
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marco210210&show_icons=true&theme=default)
