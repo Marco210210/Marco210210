@@ -1,42 +1,53 @@
 # Hi 👋, I'm Marco Di Maio
 
-### 🎓 BSc in Computer Engineering and MSc student in Computer Science – Data Science & Machine Learning, University of Salerno
+### 🎓 MSc in Computer Science (Data Science & Machine Learning) & BSc in Computer Engineering
 
 📍 Based in Nocera Inferiore, Italy  
-💡 Passionate about home automation, data science and applied AI  
-🧠 Strong problem-solving mindset, with hands-on experience in team-based projects
-⚙️ Driven by perseverance, pragmatism and passion  
+💡 Passionate about Data Science, MLOps, and AI-driven automation  
+🧠 Strong analytical mindset with experience in international research (JADS, Netherlands)  
+⚙️ Focused on building reproducible, efficient, and ethical AI solutions  
 🧭 Motto: _Stay hungry. Stay foolish_
 
 ---
 
 ### 🔭 Currently focused on
 
-- Completing the final exams of my MSc in Data Science & Machine Learning
+- Deploying **MLOps pipelines** and exploring **Physics-Informed Machine Learning**
+- Transitioning research projects into production-ready AI tools
+- Contributing to open-source initiatives in the Data Science ecosystem
 
 ### 👯 I’m looking to collaborate on
 
-- Open source projects in AI, data science and web development
-- University or research-oriented ML/AI initiatives
+- Professional projects in **AI, Data Science, and MLOps**
+- Research-oriented initiatives involving **Fairness in AI** and LLMs
+- Innovation in IoT and Smart Home automation
 
 ### 🤝 I’m looking for help with
 
-- Efficient data analysis techniques and model optimization
-- Reinforcement learning in games and simulations
+- Deepening knowledge in **Cloud Infrastructure for AI** (advanced AWS/GCP)
+- Large-scale deployment of Reinforcement Learning agents
 
 ### 🌱 I’m currently learning
 
-- Advanced machine learning (sklearn, TensorFlow, PyTorch)
-- Statistical analysis with R and Python
-- Model explainability and evaluation with LLMs
+- **Model Monitoring & Observability** in production environments
+- Advanced **LLM Evaluation** frameworks and RAG architectures
+- Emerging trends in **Green IT** and energy-efficient computing
 
 ---
 
 ### 📫 How to reach me
 
-📧 marcodimaio2102@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/marcodm2102/)  
-📷 [Instagram](https://www.instagram.com/_marco_10__/)
+📧 [marcodimaio2102@gmail.com](mailto:marcodimaio2102@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/marcodm2102/)  
+📄 [Check my latest Research Paper (IEEE)](https://ieeexplore.ieee.org/document/11206468)
+
+---
+
+### 👨‍💻 Key Projects & Research
+
+- **[PENTION-M](https://github.com/Marco210210)**: Cyber-physical architecture & MLOps for forensic detection (MSc Thesis).
+- **[Synthetic Data for Fairness](https://github.com/Marco210210/Synthetic-Fairness-Faces)**: Bias mitigation in facial recognition (Published on IEEE).
+- **[AI-Enhanced-HFT](https://github.com/Marco210210)**: Deep Learning applied to High-Frequency Trading.
 
 ---
 
